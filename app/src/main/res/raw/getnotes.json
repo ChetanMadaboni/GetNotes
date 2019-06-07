@@ -1,0 +1,141 @@
+{
+"getnotes":{
+  "Cse-A": {
+  },
+  "Cse-B": {
+  },
+  "Cse-C": {
+    "Digital Logic Design": {
+      "Unit-1": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DigitalLogicDesign/1/a.pdf"
+      ],
+      "Unit-2": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DigitalLogicDesign/2/a.pdf"
+      ],
+      "Unit-3": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DigitalLogicDesign/3/a.pdf"
+      ],
+      "unit-4": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DigitalLogicDesign/4/a.pdf"
+      ],
+      "unit-5": [
+        ""
+      ]
+    },
+    "Electronic Devices & Circuits": {
+      "Unit-1": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/1/a.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/1/b.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/1/c.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/1/d.pdf"
+      ],
+      "Unit-2": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/2/a.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/2/b.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/2/c.pdf"
+      ],
+      "Unit-3": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/3/a.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/3/b.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/3/c.pdf"
+      ],
+      "Unit-4": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/4/a.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/4/b.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/4/c.pdf"
+      ],
+      "Unit-5": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/5/a.pdf",
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ElectronicDevicesAndCircuits/5/b.pdf"
+      ]
+    },
+    "Probability & Statistics": {
+      "Unit-1": [
+        ""
+      ],
+      "Unit-2": [
+        ""
+      ],
+      "Unit-3": [
+        ""
+      ],
+      "Unit-4": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/Probability&statistics/4/a.pdf"
+      ],
+      "Unit-5": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/Probability&statistics/5/a.pdf"
+      ]
+    },
+    "Data Structures": {
+      "Unit-1": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DataStructures/1/a.pdf"
+      ],
+      "Unit-2": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DataStructures/2/a.pdf"
+      ],
+      "Unit-3": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DataStructures/3/a.pdf"
+      ],
+      "Unit-4": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DataStructures/4/a.pdf"
+      ],
+      "Unit-5": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/DataStructures/5/a.pdf"
+      ]
+    },
+    "Mathematical Foundation Of ComputerScience": {
+      "unit-1": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/MathematicalFoundationForComputerScience/1/a.pdf"
+      ],
+      "Unit-2": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/MathematicalFoundationForComputerScience/2/a.pdf"
+      ],
+      "Unit-3": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/MathematicalFoundationForComputerScience/3/a.pdf"
+      ],
+      "Unit-4": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/MathematicalFoundationForComputerScience/4/a.pdf"
+      ],
+      "Unit-5": [
+        ""
+      ]
+    },
+    "Object Oriented Programming": {
+      "Unit-1": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ObjectOrientedProgramming/1/a.pdf"
+      ],
+      "Unit-2": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ObjectOrientedProgramming/2/a.pdf"
+      ],
+      "Unit-3": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ObjectOrientedProgramming/3/a.pdf"
+      ],
+      "Unit-4": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ObjectOrientedProgramming/4/a.pdf"
+      ],
+      "Unit-5": [
+        "https://s3.ap-south-1.amazonaws.com/chetanmadaboni/GetNotes/Cse-C/ObjectOrientedProgramming/5/a.pdf"
+      ]
+    },
+    "Intellectual Property Rights And Cyberlaw": {
+      "Unit1": [
+        ""
+      ],
+      "Unit2": [
+        ""
+      ],
+      "Unit3": [
+        ""
+      ],
+      "Unit4": [
+        ""
+      ],
+      "Unit5": [
+        ""
+      ]
+    }
+  },
+  "Cse-D": {
+    }
+}
+}

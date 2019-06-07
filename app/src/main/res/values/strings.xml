@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetNotes</string>
+    <string name="cse_a">CSE-A</string>
+    <string name="cse_b">CSE-B</string>
+    <string name="cse_c">CSE-C</string>
+    <string name="cse_d">CSE-D</string>
+</resources>
